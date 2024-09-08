@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"Obj_Player",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":68,"eventType":5,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"Obj_Player",
   "overriddenProperties":[],
